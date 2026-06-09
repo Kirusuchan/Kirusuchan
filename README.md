@@ -132,8 +132,9 @@ motto:
 - Building web applications with **Laravel** and **React**
 - Developing mobile applications with **React Native**
 - Improving my UI/UX design skills using **Figma**
-- Creating personal and portfolio projects
-- Exploring networking and cybersecurity concepts
+- Interactive and user-centered digital experiences
+- Personal projects, portfolio projects, and continuous learning
+- Game development
 
 ---
 
