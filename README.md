@@ -20,7 +20,6 @@
 
 ## 👨‍💻 About Me
 
-```yaml
 name: Cristian C. Cunanan
 
 role:
@@ -30,7 +29,7 @@ role:
 currently_working_on:
   - Web Applications with Laravel & React
   - Mobile Apps with React Native
-  - Personal & Portfolio Projects
+  - Game Development
 
 skills:
   frontend:
