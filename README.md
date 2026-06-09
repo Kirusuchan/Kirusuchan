@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Kirusuchan!&fontSize=42&fontAlignY=35&animation=fadeIn" />
 </p>
@@ -35,7 +34,7 @@ goals:
   - Create useful projects
   - Build a strong portfolio
   - Contribute to open source
-````
+```
 
 ---
 
@@ -70,12 +69,20 @@ goals:
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kirusuchan/Kirusuchan/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌱 Currently Working On
 
-* Learning programming fundamentals
-* Practicing web development
-* Creating beginner-friendly projects
-* Improving my GitHub profile and portfolio
+- Learning programming fundamentals
+- Practicing web development
+- Creating beginner-friendly projects
+- Improving my GitHub profile and portfolio
 
 ---
 
@@ -94,4 +101,3 @@ goals:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-```
