@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Cristian "Kirusuchan" Cunanan
+name: Cristian C. Cunanan
 
 role:
   - Full-Stack Developer
