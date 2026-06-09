@@ -18,6 +18,7 @@
 
 ---
 
+```yaml
 ## 👨‍💻 About Me
 
 name: Cristian C. Cunanan
